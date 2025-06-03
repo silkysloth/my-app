@@ -1,0 +1,7 @@
+com\example\loginsystem\LoginSystemApplication.class
+com\example\loginsystem\config\FirebaseConfig.class
+service\AuthService.class
+com\example\loginsystem\model\User.class
+service\AuthController.class
+model\User.class
+service\AuthController$AuthResponse.class

@@ -1,5 +1,8 @@
-package model;
+package com.example.loginsystem.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class User {
     private String email;
     private String password;
